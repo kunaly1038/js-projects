@@ -1,0 +1,12 @@
+.name, .email{
+    text-align: center;
+    background-color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+}
+
+.label{
+    text-shadow: 0ex;
+    text-align: center;
+    background-color: aquamarine;
+}
